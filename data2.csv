@@ -1,0 +1,178 @@
+Districts,Neighbourhood,Cuisine
+North West Delhi,Adarsh Nagar,"South Indian,Mughlai,Afghani"
+North West Delhi,Ashok Vihar,"Chinese,Italian"
+North West Delhi,Azadpur,"Kashmiri,Afghani,Japanese"
+North West Delhi,Bawana,"Oriental,Janpanese,Kashmiri,Mughlai"
+North West Delhi,Begum Pur,"Chinese,Italian"
+North West Delhi,Dhaka,Italian
+North West Delhi,Jahangirpuri,"South Indian,Mughlai"
+North West Delhi,Karala,South Indian
+North West Delhi,Keshav Puram,Japanese
+North West Delhi,Kingsway Camp,"Chinese,Italian"
+North West Delhi,Kohat Enclave,"Italian,South Indian"
+North West Delhi,Model Town,"Kashmiri,Afghani"
+North West Delhi,Narela,"Afghani,Mughlai"
+North West Delhi,Pitam Pura,Mughlai
+North West Delhi,Rani Bagh,"Japanese,Italian"
+North West Delhi,Rithala,"Japanese,Italian,Chinese"
+North West Delhi,Rohini Sub City,Mughali
+North West Delhi,Shalimar Bagh,"Mughali,South Indian"
+North Delhi,Bara Hindu Rao,"South Indian,Japanese"
+North Delhi,Chandni Chowk,"Kashmiri,Afghani"
+North Delhi,Chawri Bazaar,"Chinese,Italian"
+North Delhi,Civil Lines,Italian
+North Delhi,Dariba Kalan,Kashmiri
+North Delhi,Ghantewala,"Chinese,Italian"
+North Delhi,Gulabi Bagh,"South Indian,Afghani"
+North Delhi,Kamla Nagar,"Japanese,Oriental"
+North Delhi,Kashmiri Gate,"Oriental,Janpanese,Kashmiri,Mughlai"
+North Delhi,Lahori Gate,"Oriental,Janpanese,Kashmiri"
+North Delhi,Nehru Vihar,"South Indian,Japanese"
+North Delhi,Paharganj,Oriental
+North Delhi,Pratap Nagar,"Oriental,Italian"
+North Delhi,Pul Bangash,"Mughlai,Afghani,Chinese"
+North Delhi,Roshanara Bagh,"Chinese,Italian"
+North Delhi,Sadar Bazar,"Italian,Oriental"
+North Delhi,Sangam Vihar,Italian
+North Delhi,Sant Nagar,Oriental
+North Delhi,Sarai Kale Khan,"Chinese,Italian"
+North Delhi,Sarai Rohilla,Chinese
+North Delhi,Shakti Nagar,"South Indian,Afghani,Kashmiri,Oriental"
+North Delhi,Shastri Nagar,"Oriental,Afghani,kashmiri"
+North Delhi,Tees Hazari,Afghani
+North Delhi,Timarpur,kashmiri
+North Delhi,Wazirabad,African  
+North East Delhi,Babarpur,Asian  
+North East Delhi,Dilshad Garden,Bengali  
+North East Delhi,Kabir Nagar,Burmese  
+North East Delhi,Mandoli,Comfort Food  
+North East Delhi,Maujpur,Dumpling  
+North East Delhi,Nand Nagri,English  
+North East Delhi,Naveen Shahdara,Fast Food  
+North East Delhi,New Usmanpur,German  
+North East Delhi,Sadatpur,Indian  
+North East Delhi,Shahdara,Japanese  
+North East Delhi,Sonia Vihar,Korean  
+North East Delhi,Shastri Park,Mexican  
+North East Delhi,Yamuna Vihar,Modern European  
+Central Delhi,Daryaganj,Moroccan  
+Central Delhi,Jhandewalan,Multicuisine Indian  
+Central Delhi,Karol Bagh,North Indian  
+Central Delhi,Rajendra Nagar,Portuguese  
+New Delhi,Barakhamba Road,Indian  
+New Delhi,Chanakyapuri,Seafood  
+New Delhi,Connaught Place,Spanish  
+New Delhi,Gautampuri,Tex-Mex  
+New Delhi,Gole Market,Vegetarian / Vegan  
+New Delhi,Golf Links,Vietnamese  
+New Delhi,INA Colony,Turkish  
+New Delhi,Khan Market,Thai  
+New Delhi,Laxmibai Nagar,Tapas  
+New Delhi,Pragati Maidan,South Indian  
+East Delhi,Brij Puri,Scandinavian  
+East Delhi,East Vinod Nagar,Punjabi  
+East Delhi,Gandhi Nagar,Northeast Indian  
+East Delhi,Geeta Colony,New American  
+East Delhi,Jhilmil Colony,Mughlai  
+East Delhi,Krishna Nagar,Molecular Gastronomy  
+East Delhi,Laxmi Nagar,Middle Eastern  
+East Delhi,Mayur Vihar,Mediterranean  
+East Delhi,Pandav Nagar,Kebab  
+East Delhi,Patparganj,Italian  
+East Delhi,Preet Vihar,Indian Chinese  
+East Delhi,Anand Vihar,French  
+East Delhi,Shakarpur,Falafel  
+East Delhi,Shastri Nagar,Eastern European  
+East Delhi,Silampur,Dim Sum  
+East Delhi,Vasundhara Enclave,Chinese  
+East Delhi,Vishwas Nagar,Brazilian  
+East Delhi,Vivek Vihar,Australian  
+East Delhi,Shahdara,American  
+South Delhi,Alaknanda,African  
+South Delhi,Chhattarpur,Australian  
+South Delhi,Chittaranjan Park,Burmese  
+South Delhi,Dayanand Colony,Dim Sum  
+South Delhi,Defence Colony,English  
+South Delhi,East of Kailash,French  
+South Delhi,Friends Colony,Indian  
+South Delhi,Govindpuri,Kebab  
+South Delhi,Greater Kailash,Mexican  
+South Delhi,Green Park,Molecular Gastronomy  
+South Delhi,Gulmohar Park,Multicuisine Indian  
+South Delhi,Hauz Khas,Northeast Indian  
+South Delhi,Hauz Khas Village,Indian  
+South Delhi,Jaitpur,South Indian  
+South Delhi,Zamrudpur Village,Tex-Mex  
+South Delhi,Jangpura,Turkish  
+South Delhi,Jasola,Vietnamese  
+South Delhi,Jor Bagh,Thai  
+South Delhi,Kailash Colony,South Indian  
+South Delhi,Kalkaji,Punjabi  
+South Delhi,Khanpur,New American  
+South Delhi,Khirki Village,Molecular Gastronomy  
+South Delhi,Kotla Mubarakpur,Mexican  
+South Delhi,Lajpat Nagar,Korean  
+South Delhi,Lodhi Colony,Indian  
+South Delhi,Maharani Bagh,Fast Food  Falafel  
+South Delhi,Malviya Nagar,English  
+South Delhi,Mehrauli,Australian  
+South Delhi,Neeti Bagh,African  
+South Delhi,Nehru Place,American  
+South Delhi,Netaji Nagar,Asian  
+South Delhi,New Friends Colony,Australian  
+South Delhi,Nizamuddin West,Bengali  
+South Delhi,Okhla,Brazilian  
+South Delhi,Pulpehaladpur,Burmese  
+South Delhi,Safdarjung Enclave,Falafel  
+South Delhi,Sainik Farm,Fast Food  
+South Delhi,Saket,German  
+South Delhi,Sarita Vihar,Indian Chinese  
+South Delhi,Sarojini Nagar,Italian  
+South Delhi,Sarvodaya Enclave,Japanese  
+South Delhi,Shahpur Jat,Korean  
+South Delhi,Siri Fort,Mediterranean  
+South Delhi,South Extension,Middle Eastern  
+South Delhi,Sriniwaspuri,Multicuisine Indian  
+South Delhi,Sundar Nagar,New American  
+South Delhi,Tughlaqabad,Northeast Indian  
+South Delhi,Badarpur,Portuguese  
+South West Delhi,Dabri,Indian  
+South West Delhi,Dwarka Sub City,Scandinavian  
+South West Delhi,Delhi Cantonment,South Indian  
+South West Delhi,Dhaula Kuan,Tapas  
+South West Delhi,Ghitorni,Tex-Mex  
+South West Delhi,Inderpuri,Vegetarian / Vegan  
+South West Delhi,Kirby Place,Thai  
+South West Delhi,Kishangarh Village,New American  
+South West Delhi,Mahipalpur,Moroccan  
+South West Delhi,Moti Bagh,Modern European  
+South West Delhi,Munirka,Korean  
+South West Delhi,Najafgarh,Italian  
+South West Delhi,Naraina,German  
+South West Delhi,Palam,Falafel  
+South West Delhi,Rama Krishna Puram,Dim Sum  
+South West Delhi,Rajokri,Burmese  
+South West Delhi,Rangpuri,Australian  
+South West Delhi,Sarojini Nagar,Australian  
+South West Delhi,Sagar Pur,African  
+South West Delhi,Vasant Kunj,Chinese  
+South West Delhi,Vasant Vihar,Dim Sum  
+West Delhi,Ashok Nagar,Eastern European  
+West Delhi,Bali Nagar,Fast Food  
+West Delhi,Fateh Nagar,German  
+West Delhi,Janakpuri,Indian  
+West Delhi,Kirti Nagar,Italian  
+West Delhi,Meera Bagh,Kebab  
+West Delhi,Moti Nagar,Molecular Gastronomy  
+West Delhi,Nehru Nagar,New American  
+West Delhi,Partap Nagar,Punjabi  
+West Delhi,Paschim Vihar,Scandinavian  
+West Delhi,Patel Nagar,South Indian  
+West Delhi,Punjabi Bagh,Tex-Mex  
+West Delhi,Rajouri Garden,Vietnamese  
+West Delhi,Shivaji Place,Moroccan  
+West Delhi,Tihar Village,Kebab  
+West Delhi,Tilak Nagar,Falafel 
+West Delhi,Uttam Nagar,African 
+West Delhi,Vikas Nagar,Brazilian
+West Delhi,Vikaspuri,Korean 

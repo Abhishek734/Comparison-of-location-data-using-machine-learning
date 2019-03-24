@@ -1,0 +1,22 @@
+Cuisine
+Indian  
+Scandinavian  
+South Indian  
+Tapas  
+Tex-Mex  
+Vegetarian / Vegan  
+Thai  
+New American  
+Moroccan  
+Modern European  
+Korean  
+Italian  
+German  
+Falafel  
+Dim Sum  
+Burmese  
+Australian  
+Australian  
+African  
+Chinese  
+Dim Sum  

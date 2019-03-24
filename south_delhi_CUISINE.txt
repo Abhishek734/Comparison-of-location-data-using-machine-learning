@@ -1,0 +1,49 @@
+Cuisine
+African  
+Australian  
+Burmese  
+Dim Sum  
+English  
+French  
+Indian  
+Kebab  
+Mexican  
+Molecular Gastronomy  
+Multicuisine Indian  
+Northeast Indian  
+Indian  
+South Indian  
+Tex-Mex  
+Turkish  
+Vietnamese  
+Thai  
+South Indian  
+Punjabi  
+New American  
+Molecular Gastronomy  
+Mexican  
+Korean  
+Indian  
+Fast Food  Falafel  
+English  
+Australian  
+African  
+American  
+Asian  
+Australian  
+Bengali  
+Brazilian  
+Burmese  
+Falafel  
+Fast Food  
+German  
+Indian Chinese  
+Italian  
+Japanese  
+Korean  
+Mediterranean  
+Middle Eastern  
+Multicuisine Indian  
+New American  
+Northeast Indian  
+Portuguese  

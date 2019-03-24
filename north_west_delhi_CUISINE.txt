@@ -1,0 +1,19 @@
+Cuisine
+"South Indian,Mughlai,Afghani"
+"Chinese,Italian"
+"Kashmiri,Afghani,Japanese"
+"Oriental,Janpanese,Kashmiri,Mughlai"
+"Chinese,Italian"
+Italian
+"South Indian,Mughlai"
+South Indian
+Japanese
+"Chinese,Italian"
+"Italian,South Indian"
+"Kashmiri,Afghani"
+"Afghani,Mughlai"
+Mughlai
+"Japanese,Italian"
+"Japanese,Italian,Chinese"
+Mughali
+"Mughali,South Indian"

@@ -1,0 +1,20 @@
+Cuisine
+Scandinavian  
+Punjabi  
+Northeast Indian  
+New American  
+Mughlai  
+Molecular Gastronomy  
+Middle Eastern  
+Mediterranean  
+Kebab  
+Italian  
+Indian Chinese  
+French  
+Falafel  
+Eastern European  
+Dim Sum  
+Chinese  
+Brazilian  
+Australian  
+American  

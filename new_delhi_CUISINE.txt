@@ -1,0 +1,11 @@
+Cuisine
+Indian  
+Seafood  
+Spanish  
+Tex-Mex  
+Vegetarian / Vegan  
+Vietnamese  
+Turkish  
+Thai  
+Tapas  
+South Indian  

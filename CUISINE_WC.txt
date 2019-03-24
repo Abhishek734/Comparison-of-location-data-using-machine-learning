@@ -1,0 +1,178 @@
+Cuisine
+"South Indian,Mughlai,Afghani"
+"Chinese,Italian"
+"Kashmiri,Afghani,Japanese"
+"Oriental,Janpanese,Kashmiri,Mughlai"
+"Chinese,Italian"
+Italian
+"South Indian,Mughlai"
+South Indian
+Japanese
+"Chinese,Italian"
+"Italian,South Indian"
+"Kashmiri,Afghani"
+"Afghani,Mughlai"
+Mughlai
+"Japanese,Italian"
+"Japanese,Italian,Chinese"
+Mughali
+"Mughali,South Indian"
+"South Indian,Japanese"
+"Kashmiri,Afghani"
+"Chinese,Italian"
+Italian
+Kashmiri
+"Chinese,Italian"
+"South Indian,Afghani"
+"Japanese,Oriental"
+"Oriental,Janpanese,Kashmiri,Mughlai"
+"Oriental,Janpanese,Kashmiri"
+"South Indian,Japanese"
+Oriental
+"Oriental,Italian"
+"Mughlai,Afghani,Chinese"
+"Chinese,Italian"
+"Italian,Oriental"
+Italian
+Oriental
+"Chinese,Italian"
+Chinese
+"South Indian,Afghani,Kashmiri,Oriental"
+"Oriental,Afghani,kashmiri"
+Afghani
+kashmiri
+African  
+Asian  
+Bengali  
+Burmese  
+Comfort Food  
+Dumpling  
+English  
+Fast Food  
+German  
+Indian  
+Japanese  
+Korean  
+Mexican  
+Modern European  
+Moroccan  
+Multicuisine Indian  
+North Indian  
+Portuguese  
+Indian  
+Seafood  
+Spanish  
+Tex-Mex  
+Vegetarian / Vegan  
+Vietnamese  
+Turkish  
+Thai  
+Tapas  
+South Indian  
+Scandinavian  
+Punjabi  
+Northeast Indian  
+New American  
+Mughlai  
+Molecular Gastronomy  
+Middle Eastern  
+Mediterranean  
+Kebab  
+Italian  
+Indian Chinese  
+French  
+Falafel  
+Eastern European  
+Dim Sum  
+Chinese  
+Brazilian  
+Australian  
+American  
+African  
+Australian  
+Burmese  
+Dim Sum  
+English  
+French  
+Indian  
+Kebab  
+Mexican  
+Molecular Gastronomy  
+Multicuisine Indian  
+Northeast Indian  
+Indian  
+South Indian  
+Tex-Mex  
+Turkish  
+Vietnamese  
+Thai  
+South Indian  
+Punjabi  
+New American  
+Molecular Gastronomy  
+Mexican  
+Korean  
+Indian  
+Fast Food  Falafel  
+English  
+Australian  
+African  
+American  
+Asian  
+Australian  
+Bengali  
+Brazilian  
+Burmese  
+Falafel  
+Fast Food  
+German  
+Indian Chinese  
+Italian  
+Japanese  
+Korean  
+Mediterranean  
+Middle Eastern  
+Multicuisine Indian  
+New American  
+Northeast Indian  
+Portuguese  
+Indian  
+Scandinavian  
+South Indian  
+Tapas  
+Tex-Mex  
+Vegetarian / Vegan  
+Thai  
+New American  
+Moroccan  
+Modern European  
+Korean  
+Italian  
+German  
+Falafel  
+Dim Sum  
+Burmese  
+Australian  
+Australian  
+African  
+Chinese  
+Dim Sum  
+Eastern European  
+Fast Food  
+German  
+Indian  
+Italian  
+Kebab  
+Molecular Gastronomy  
+New American  
+Punjabi  
+Scandinavian  
+South Indian  
+Tex-Mex  
+Vietnamese  
+Moroccan  
+Kebab  
+Falafel 
+African 
+Brazilian
+Korean 

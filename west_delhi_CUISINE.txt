@@ -1,0 +1,20 @@
+Cuisine
+Eastern European  
+Fast Food  
+German  
+Indian  
+Italian  
+Kebab  
+Molecular Gastronomy  
+New American  
+Punjabi  
+Scandinavian  
+South Indian  
+Tex-Mex  
+Vietnamese  
+Moroccan  
+Kebab  
+Falafel 
+African 
+Brazilian
+Korean 
